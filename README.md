@@ -2,9 +2,11 @@
 
 I'm Mervin!👨🏻‍💼
 
-* 👨🏼‍💻 A Full stack developer.
+* 👨🏼‍💻 A Fullstack Developer.
 * 🏠 Living in Cebu City, Philippines.
+* ⏱ With 5+ years of experience writing code.
 * 💻 Here is my current tech stack: 
-      - Web: Laravel, Vuejs, Inertiajs, MySQL
-      - Web: Node, Express, Next
-      - Mobile: React Native
+
+``` 
+cosnt TECH_STACK = ["PHP", "Node", "Laravel", "Express", "Vuejs", "React", "Nextjs", "Inertiajs", "MySQL", "React Native"]; 
+```
