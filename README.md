@@ -8,5 +8,12 @@ I'm Mervin!👨🏻‍💼
 * 💻 Here is my current tech stack: 
 
 ```javascript
-const TECH_STACK = ["PHP", "Node", "Laravel", "Express", "Vuejs", "React", "Nextjs", "Inertiajs", "MySQL", "React Native"]; 
+const TECH_STACK = [
+  "PHP", "Node", 
+  "Laravel", "Express", 
+  "Vuejs", "React", 
+  "Nextjs", "Inertiajs", 
+  "React Native",
+  "MySQL"
+]; 
 ```
