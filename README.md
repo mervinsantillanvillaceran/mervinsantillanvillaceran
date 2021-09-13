@@ -15,5 +15,6 @@ I'm Mervin!👨🏻‍💼
 <img align="left" alt="React" src="https://img.shields.io/badge/React-%230ab0dc?style=for-the-badge&logo=react&logoColor=%23fff" />
 <img align="left" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2340b681?style=for-the-badge&logo=vue.js&logoColor=%23fff" />
 <img align="left" alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000?style=for-the-badge&logo=next.js&logoColor=%23fff" />
+<br /> <br />
 <img align="left" alt="React Native" src="https://img.shields.io/badge/React%20Native-%230ea2ca?style=for-the-badge&logo=react&logoColor=%23fff" />
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-%23075e85?style=for-the-badge&logo=mysql&logoColor=%23fff" />
