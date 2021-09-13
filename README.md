@@ -7,13 +7,13 @@ I'm Mervin!👨🏻‍💼
 * ⏱ With 5+ years of experience writing code.
 
 ### 💻 Current Tech Stack
-<div styles="display:flex;flex-direction: 'row';">
+<div>
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-%2336447f?style=for-the-badge&logo=php&logoColor=%23fff" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-%2343853Df?style=for-the-badge&logo=node.js&logoColor=%23fff" />
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/Laravel-%23de422f?style=for-the-badge&logo=laravel&logoColor=%23fff" />
 <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-%23323232?style=for-the-badge&logo=express&logoColor=%23fff" />
 </div><br /> <br />
-<div styles="display:flex;flex-direction: 'row';">
+<div>
 <img align="left" alt="React" src="https://img.shields.io/badge/React-%230ab0dc?style=for-the-badge&logo=react&logoColor=%23fff" />
 <img align="left" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2340b681?style=for-the-badge&logo=vue.js&logoColor=%23fff" />
 <img align="left" alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000?style=for-the-badge&logo=next.js&logoColor=%23fff" />
