@@ -17,3 +17,7 @@ const TECH_STACK = [
   "MySQL"
 ]; 
 ```
+
+### Current Tech Stack
+<img align="left" alt="react" src="https://img.shields.io/badge/PHP-%2336447f?style=for-the-badge&logo=php&logoColor=%23fff" />
+<img align="left" alt="react" src="https://img.shields.io/badge/Node.js-%2343853Df?style=for-the-badge&logo=node.js&logoColor=%23fff" />
