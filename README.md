@@ -20,7 +20,7 @@ I'm Mervin!👨🏻‍💼
 <img align="left" alt="React Native" src="https://img.shields.io/badge/React%20Native-%230ea2ca?style=for-the-badge&logo=react&logoColor=%23fff" />
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-%23075e85?style=for-the-badge&logo=mysql&logoColor=%23fff" />
 </div>
-
+<br /><br />
 
 ### 💻 Currently Learning
 <div>
